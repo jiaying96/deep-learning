@@ -12,5 +12,4 @@
 - 上传
 - git add .
 - git commit -m "  "
-- git remote add origin https://github.com/jiaying96/deep-learning.git
 - git push -u origin master
